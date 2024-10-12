@@ -1,1 +1,1 @@
-# odin-recipes
+Welcome to the Recipes section! I'm still learning lol.
