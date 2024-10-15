@@ -1,0 +1,17 @@
+.heading {
+    color:blueviolet;
+    font-family: system-ui, -apple-system;
+    font-size: 100px;
+    text-align: center;
+}
+
+a {
+    font-family: system-ui, -apple-system;
+    height:100%;
+    width: 100%;
+    text-align: center;
+}
+
+* {
+    background-color: lavender;
+}
